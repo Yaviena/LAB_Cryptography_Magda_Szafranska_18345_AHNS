@@ -9,8 +9,8 @@ leading by dr Piotr Dobosz.
 Inside you can find pdf and other files of **3 separate reports** of the laboratory.<br />
 Each of them in 2 versions (pdf and docx):
 1. <a href="https://github.com/Yaviena/LAB_Cryptography_Magda_Szafranska_18345_AHNS/blob/c1d5b7cffe08a5c657fef1c4e3d2263b0628caf3/Magda_Szafranska_18345_kryptografia_lab_1.pdf" target="_blank">Laboratory nr 1</a> - encryption webpages and emails
-2. <a href="aaa" target="_blank">Laboratory nr 2</a> - aaa
-3. <a href="https://github.com/Yaviena/LAB_Cryptography_Magda_Szafranska_18345_AHNS/blob/c1d5b7cffe08a5c657fef1c4e3d2263b0628caf3/Magda_Szafranska_18345_kryptografia_lab_3.pdf" target="_blank">Laboratory nr 3</a> - popular technick encryption of documents
+2. <a href="https://github.com/Yaviena/LAB_Cryptography_Magda_Szafranska_18345_AHNS/blob/main/Magda_Szafranska_18345_kryptografia_lab_2.pdf" target="_blank">Laboratory nr 2</a> - Virtual Private Network
+3. <a href="https://github.com/Yaviena/LAB_Cryptography_Magda_Szafranska_18345_AHNS/blob/c1d5b7cffe08a5c657fef1c4e3d2263b0628caf3/Magda_Szafranska_18345_kryptografia_lab_3.pdf" target="_blank">Laboratory nr 3</a> - technic encryption of documents
 
 All files are also available <a href="https://github.com/Yaviena/LAB_Cryptography_Magda_Szafranska_18345_AHNS" target="_blank">here</a>.
 
